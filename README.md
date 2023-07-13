@@ -9,7 +9,7 @@ To get a local copy up and running do the following:
 ## Installation
 Clone the repo  --> git clone https://github.com/Code-Life-Hub/GrubDash-project.git
 
-### Then install NPM.
+### Then install NPM Packages
 npm install npm@latest -g
 
 ## Contributing 
