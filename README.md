@@ -6,14 +6,11 @@ This is my GrubDash backend project. The main task is to set up an API and build
 ## Getting Started
 To get a local copy up and running do the following:
 
-### First you need to install NPM.
-npm install npm@latest -g
-
 ## Installation
 Clone the repo  --> git clone https://github.com/Code-Life-Hub/GrubDash-project.git
 
-### Install NPM packages
-npm install
+### Then install NPM.
+npm install npm@latest -g
 
 ##Contributing
 
@@ -22,4 +19,4 @@ npm install
     #### Create your Feature Branch (git checkout -b feature/AmazingFeature)
     #### Commit your Changes (git commit -m 'Add some AmazingFeature')
     #### Push to the Branch (git push origin feature/AmazingFeature)
-   #### Open a Pull Request
+    #### Open a Pull Request
