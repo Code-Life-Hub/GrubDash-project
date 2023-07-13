@@ -7,7 +7,6 @@ This is my GrubDash backend project. The main task is to set up an API and build
 To get a local copy up and running do the following:
 
 ### First you need to install NPM.
-npm
 npm install npm@latest -g
 
 ## Installation
