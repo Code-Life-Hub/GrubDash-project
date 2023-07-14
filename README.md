@@ -20,3 +20,7 @@ npm install npm@latest -g
     #### Commit your Changes (git commit -m 'Add some AmazingFeature')
     #### Push to the Branch (git push origin feature/AmazingFeature)
     #### Open a Pull Request
+
+## Live Demo
+
+Check it out for yourself here --> [Live Demo](https://code-life-hub.github.io/GrubDash-project/)
